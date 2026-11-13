@@ -26,5 +26,6 @@ Notes
 Credits
 - Background artist: (https://x.com/ssums12) (https://www.youtube.com/@sum123) (https://www.pixiv.net/en/users/7175089) 
 - Fonts: SF Pro
-If you would like this taken down Message me at, I am just a Fan, Wanted to Create somethin cewl...,
+  
+- If you would like this taken down Message me at, I am just a Fan, Wanted to Create somethin cewl...,
 (https://x.com/super_kibble)

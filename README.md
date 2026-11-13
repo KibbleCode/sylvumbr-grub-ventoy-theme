@@ -1,3 +1,6 @@
+<img width="1920" height="1080" alt="Preview" src="https://github.com/user-attachments/assets/99277de8-ce6d-4ac7-a9e0-7184e32903e6" />
+
+
 Ventoy Theme
 A Windows 7 Aero-inspired boot menu for Ventoy and GRUB, with custom artwork, a blue selector, and SF Pro-style text.
 Features
